@@ -1,7 +1,7 @@
 [slide]
 # Lesson Introduction
 
-TODO: Add Video
+TODO: Add Vide
 
 ## In this lesson you will learn about:
 
